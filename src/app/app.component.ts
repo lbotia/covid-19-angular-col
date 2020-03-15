@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'covic19col';
+  title = 'covid19-col';
+  widthCol = '300px';
+  heightCol = '100%';
 }

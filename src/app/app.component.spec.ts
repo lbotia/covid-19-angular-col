@@ -23,13 +23,13 @@ describe('AppComponent', () => {
   it(`should have as title 'covic19col'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('covic19col');
+    expect(app.title).toEqual('covid19-col');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('covic19col app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('covid19-col app is running!');
   });
 });
