@@ -1,4 +1,4 @@
-# Covid19col - Web Page Angular - Corinavirus Colombia in Real Time
+# Covid19col - Web Page Angular - Coronavirus Colombia in Real Time
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
